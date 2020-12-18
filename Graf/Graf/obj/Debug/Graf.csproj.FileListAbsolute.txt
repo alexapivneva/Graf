@@ -1,0 +1,7 @@
+E:\aktirf\МК-51\Graf\Graf\obj\Debug\Graf.csprojAssemblyReference.cache
+E:\aktirf\МК-51\Graf\Graf\obj\Debug\Graf.csproj.CoreCompileInputs.cache
+E:\aktirf\МК-51\Graf\Graf\bin\Debug\Graf.exe.config
+E:\aktirf\МК-51\Graf\Graf\bin\Debug\Graf.exe
+E:\aktirf\МК-51\Graf\Graf\bin\Debug\Graf.pdb
+E:\aktirf\МК-51\Graf\Graf\obj\Debug\Graf.exe
+E:\aktirf\МК-51\Graf\Graf\obj\Debug\Graf.pdb
